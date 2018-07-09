@@ -12,5 +12,5 @@ A solution of the test described on https://gist.github.com/mlvernay/57ed73edfc8
 
 #### Known Issue
 
-- Solution won't work when number of atoms is more than 2 digits together. E.g. `C6H12O6`.
+- Solution won't work when more than 1 digits are present together in the formula. E.g. **C6H12O6** (Glucose).
 
